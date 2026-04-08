@@ -1,7 +1,7 @@
 # AI-Act-Recrutement
 Module de formation présentant l'AI Act et son impact sur l'utilisation des outils IA dans les processus de recrutement.
 
-Lien vers le module : 
+Lien vers le module : https://salyacoul.github.io/AI-Act-Recrutement/
 
 ---
 
